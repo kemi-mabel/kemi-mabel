@@ -1,4 +1,3 @@
-![MasterHead](https://miro.medium.com/max/1138/1*LH3LsT_dZGzI0FK4gUWGwQ.png)
 <h1 align="center">Hi 👋, I'm Oluwakemi</h1>
 <h3 align="center">An iOS developer from Nigeria</h3>
 
