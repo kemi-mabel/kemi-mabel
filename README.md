@@ -1,6 +1,4 @@
-![MasterHead](https://github.com/kemi-mabel/Left-Right-Hand-Fun-Facts/blob/main/imgonline-com-ua-resize-7ePXYTWzYKulhqCg.png)
-<h1 align="center">Hi 👋, I'm Oluwakemi</h1>
-<h3 align="center">An iOS developer from Nigeria</h3>
+
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
